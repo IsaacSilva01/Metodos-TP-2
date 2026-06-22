@@ -1,0 +1,9 @@
+## Uso de inteligencia artificial en este trabajo práctico ##
+
+A lo largo de este trabajo práctico utilizamos herramientas de inteligencia artificial como apoyo puntual en distintas instancias del proceso, sin que esto reemplazara el desarrollo propio de las ideas ni las decisiones tomadas sobre el problema.
+
+Por un lado, la usamos para resolver dudas conceptuales que surgieron mientras avanzábamos: por ejemplo, para entender con mayor claridad la diferencia entre el método de gradiente descendiente y el método de Newton, el rol de la regularización dentro de la función de costo, y la relación entre los polinomios de Bernstein y la construcción de las curvas de Bézier. En todos los casos, las respuestas obtenidas fueron contrastadas con lo visto en clase y con el material de la materia, y sirvieron como guía para profundizar nuestra propia comprensión, no como un reemplazo de ella.
+
+Por otro lado, recurrimos a la IA como asistencia para tareas de organización del código: nos ayudó a pensar cómo estructurar funciones reutilizables para evitar repetir bloques extensos al probar distintos grados y distintos valores de los parámetros de la función de costo, así como a resolver errores de ejecución vinculados al orden en que corríamos las celdas del notebook.
+
+Finalmente, también la utilizamos como herramienta de redacción para ordenar y dar claridad a algunas de las justificaciones escritas del trabajo, partiendo siempre de los resultados numéricos y las conclusiones que nosotros ya habíamos definido a partir del análisis de las trayectorias obtenidas.
